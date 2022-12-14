@@ -162,19 +162,19 @@ export const Plans = () => {
               </td>
               <td></td>
             </tr>
-            <tr>
+            <tr >
               {" "}
               <td></td>
-              <td>
+              <td className="mx-auto">
                 <td className="orders"> Order</td>
               </td>
-              <td>
+              <td className="mx-auto">
                 <td className="orders">Order</td>
               </td>
-              <td>
+              <td className="mx-auto">
                 <td className="orders">Order</td>
               </td>
-              <td>
+              <td className="mx-auto">
                 <td className="orders">Contact Us</td>
               </td>
             </tr>
