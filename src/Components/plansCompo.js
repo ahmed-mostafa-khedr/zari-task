@@ -165,17 +165,17 @@ export const Plans = () => {
             <tr >
               {" "}
               <td></td>
-              <td className="mx-auto">
-                <td className="orders"> Order</td>
+              <td className="mx-auto text-center">
+                <td className="orders mx-auto text-center"> Order</td>
               </td>
-              <td className="mx-auto">
-                <td className="orders">Order</td>
+              <td className="mx-auto text-center">
+                <td className="orders mx-auto text-center">Order</td>
               </td>
-              <td className="mx-auto">
-                <td className="orders">Order</td>
+              <td className="mx-auto text-center">
+                <td className="orders mx-auto text-center">Order</td>
               </td>
-              <td className="mx-auto">
-                <td className="orders">Contact Us</td>
+              <td className=" mx-auto text-center">
+                <td className="orders mx-auto text-center">Contact Us</td>
               </td>
             </tr>
           </tbody>
