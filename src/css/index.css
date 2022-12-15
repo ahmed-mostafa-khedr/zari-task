@@ -33,7 +33,7 @@ a {
 
 /*ـــــــــــــــــــــnavbarــــــــــــــــــــــــــ*/
 .nav-total {
-position:static;
+
 width: 100%;
   box-shadow: var(--firstBoxShadow);
   background-color: var(--white);
